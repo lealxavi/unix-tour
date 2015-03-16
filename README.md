@@ -52,6 +52,9 @@ Abro esta sección porque realmente un editor de texto y vim, es algo que se uti
 Una vez dentro de vim, podéis lanzar el comando: 
 
 + ```:set number``` para ver el número de lineas a la izquierda
++ ```:syntax on``` para colorear la sintáxi de los diferentes lenguajes
++ ```:set tabstop=4``` definir la longitud de los tabuladores
++ ```:set expandtab``` definir los tabuladores como espacios
 
 #### Customizar VIM
 
@@ -65,3 +68,4 @@ Allí dentro puedes añadir en lineas separadas las instrucciones (como ```:set 
 + [Organización Ficheros UNIX](http://en.wikipedia.org/wiki/Unix_filesystem)
 + [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_01_04.html)
 + [UNIX Find A File Command](http://www.cyberciti.biz/faq/howto-find-a-file-under-unix/)
++ [UNIX Command NC](http://www.tutorialspoint.com/unix_commands/nc.htm)
